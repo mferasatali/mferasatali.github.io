@@ -1,0 +1,1 @@
+const a=[{degree:"Bachelor of Science",studyIn:"Computer Science",duration:"2019 – 2023",institutionName:"University of Central Punjab",location:"Lahore, Pakistan",marks:"",animation:"animation-1"}];export{a as F};
